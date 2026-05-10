@@ -23,8 +23,8 @@ Warsaw, Poland
 
 [Tableau Public](https://public.tableau.com/profile/cezariusz.iwo.orlowski)
 
-[VivaIvo](https://vivaivo.pl)
-[Iwo Orlowski](https://iwoorlowski.pl)
+[VivaIvo](https://vivaivo.pl)   
+[Iwo Orlowski](https://iwoorlowski.pl)   
 [Sabat Theatre](https://www.teatr-sabat.pl/en)
 
 <!--
