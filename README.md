@@ -10,6 +10,8 @@ Tableau Developer • Data Analyst • Tableau Prep • Power BI • SQL • Alt
 🌱 I’m currently learning: Cyber - Security & Threat Intelligence
 
 
+Warsaw, Poland
+
 <!--
 **CezariuszIwoOrlowski/CezariuszIwoOrlowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
