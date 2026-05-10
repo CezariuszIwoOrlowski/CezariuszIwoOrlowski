@@ -5,8 +5,12 @@ id: Cezariusz Iwo Orłowski
 
 Tableau Developer • Data Analyst • Tableau Prep • Power BI • SQL • Alteryx
 
-• League of Legends: ex-Diamond
-• Grepolis: Former #1 player on a major server
+🏰 League of Legends: ex-Diamond
+
+⚔️ Grepolis: Former #1 player on a major server:
+- Served as Acting Alliance Manager of a Top #2 alliance (server-wide)
+- Managed an alliance of 40+ players
+- Associated with alliance "Demony Wojny"
 
 🌱 I’m currently learning: Cyber - Security & Threat Intelligence
 
