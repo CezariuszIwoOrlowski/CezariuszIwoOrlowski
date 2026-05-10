@@ -10,7 +10,7 @@ Tableau Developer • Data Analyst • Tableau Prep • Power BI • SQL • Alt
 ⚔️ Grepolis: Former #1 player on a major server:
 - Served as Acting Alliance Manager of a Top #2 alliance (server-wide)
 - Managed an alliance of 40+ players
-- Associated with alliance "Demony Wojny"
+- Associated with alliance "Demony Wojny" - known for its coalition warfare, long-standing tradition, and recognized as one of the strongest alliances in the game throughout the years
 
 🌱 I’m currently learning: Cyber - Security & Threat Intelligence
 
