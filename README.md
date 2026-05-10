@@ -15,6 +15,10 @@ Tableau Developer • Data Analyst • Tableau Prep • Power BI • SQL • Alt
 
 Warsaw, Poland
 
+## Connect - Find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cezariusz-iwo-orlowski/)
+
 https://vivaivo.pl
 
 <!--
