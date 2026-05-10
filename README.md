@@ -1,7 +1,11 @@
 ## Hi there 👋
 
-username: 
+## Cezariusz Iwo Orłowski - Portfolio 
+
+username: CezariuszIwoOrlowski
 id: Cezariusz Iwo Orłowski
+
+Tableau Developer • Data Analyst • Tableau Prep • Power BI • SQL • Alteryx
 
 <!--
 **CezariuszIwoOrlowski/CezariuszIwoOrlowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
