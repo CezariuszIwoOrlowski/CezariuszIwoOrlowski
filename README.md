@@ -11,6 +11,7 @@ Tableau Developer • Data Analyst • Tableau Prep • Power BI • SQL • Alt
 - Served as Acting Alliance Manager of a Top #2 alliance (server-wide)
 - Managed an alliance of 40+ players
 - Associated with alliance "Demony Wojny" - known for its coalition warfare, long-standing tradition, and recognized as one of the strongest alliances in the game throughout the years
+- Active participant in the World Wonder era — awarded the server crown as part of the winning alliance
 
 🌱 I’m currently learning: Cyber - Security & Threat Intelligence
 
