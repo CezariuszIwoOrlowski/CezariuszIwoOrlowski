@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cezariusziwoorlowski.github.io/CezariuszIwoOrlowski/sitemap.xml
