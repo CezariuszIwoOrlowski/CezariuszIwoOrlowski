@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Cezariusz Iwo Orłowski - GitHub Portfolio - Data Analyst
 
 username: CezariuszIwoOrlowski
