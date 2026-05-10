@@ -22,7 +22,7 @@ Warsaw, Poland
 [![Portfolio](https://img.shields.io/badge/Portfolio-080c10?style=flat&logo=github&logoColor=white)](https://CezariuszIwoOrlowski.github.io)
 
 [VivaIvo](https://vivaivo.pl)
-https://vivaivo.pl
+[Iwo Orlowski](https://iwoorlowski.pl)
 
 <!--
 **CezariuszIwoOrlowski/CezariuszIwoOrlowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
