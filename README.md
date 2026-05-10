@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Cezariusz Iwo Orłowski - GitHub Portfolio 
+## Cezariusz Iwo Orłowski - GitHub Portfolio - Data Analyst
 
 username: CezariuszIwoOrlowski
 id: Cezariusz Iwo Orłowski
