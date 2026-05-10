@@ -21,6 +21,7 @@ Warsaw, Poland
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/cezariusz_iwo_orlowski)
 [![Portfolio](https://img.shields.io/badge/Portfolio-080c10?style=flat&logo=github&logoColor=white)](https://CezariuszIwoOrlowski.github.io)
 
+[VivaIvo](https://vivaivo.pl)
 https://vivaivo.pl
 
 <!--
