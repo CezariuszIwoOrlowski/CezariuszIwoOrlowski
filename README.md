@@ -7,6 +7,9 @@ id: Cezariusz Iwo Orłowski
 
 Tableau Developer • Data Analyst • Tableau Prep • Power BI • SQL • Alteryx
 
+League of Legends: EUNE & EUW ex-Diamond
+Grepolis: Former #1 player on a major server
+
 🌱 I’m currently learning: Cyber - Security & Threat Intelligence
 
 
