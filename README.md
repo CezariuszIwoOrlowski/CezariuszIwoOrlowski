@@ -31,6 +31,13 @@ Warsaw, Poland
 [Iwo Orlowski](https://iwoorlowski.pl)   
 [Sabat Theatre](https://www.teatr-sabat.pl/en)
 
+
+@cezariusz_iwo @cezariusz_iwo_orlowski @cezariusziwo #cezariusziwo #cezariusz_iwo #cezariusz_iwo_orlowski Poland Cezariusz Iwo Orłowski • BI Specialist • Tableau Developer • Power BI • ERP Analytics  Tableau • Tableau Prep • SQL • Alteryx Healthcare • Finance Aspiring Threat Intelligence Analyst
+
+
+https://pin.it/qv0CpZFGX
+
+
 <!--
 **CezariuszIwoOrlowski/CezariuszIwoOrlowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
