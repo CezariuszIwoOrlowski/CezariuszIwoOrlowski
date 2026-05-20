@@ -33,6 +33,7 @@ Warsaw, Poland
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 @cezariusz_iwo @cezariusz_iwo_orlowski @cezariusziwo #cezariusziwo #cezariusz_iwo #cezariusz_iwo_orlowski Poland Cezariusz Iwo Orłowski • BI Specialist • Tableau Developer • Power BI • ERP Analytics  Tableau • Tableau Prep • SQL • Alteryx Healthcare • Finance Aspiring Threat Intelligence Analyst
