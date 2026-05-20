@@ -38,8 +38,19 @@ Warsaw, Poland
 @cezariusz_iwo @cezariusz_iwo_orlowski @cezariusziwo #cezariusziwo #cezariusz_iwo #cezariusz_iwo_orlowski Poland Cezariusz Iwo Orłowski • BI Specialist • Tableau Developer • Power BI • ERP Analytics  Tableau • Tableau Prep • SQL • Alteryx Healthcare • Finance Aspiring Threat Intelligence Analyst
 
 
-[Pinterest](https://pin.it/qv0CpZFGX)
 
+
+https://pin.it/qv0CpZFGX
+
+
+
+# 💻 Tech Stack:
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Tableau](https://img.shields.io/badge/tableau-%23121011.svg?style=for-the-badge&logo=tableau&logoColor=white)
+
+https://public.tableau.com/profile/cezariusz.iwo.orlowski
 
 <!--
 **CezariuszIwoOrlowski/CezariuszIwoOrlowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
