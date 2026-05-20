@@ -23,6 +23,7 @@ Warsaw, Poland
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cezariusz-iwo-orlowski/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/cezariusz_iwo_orlowski)
 [![Portfolio](https://img.shields.io/badge/Portfolio-080c10?style=flat&logo=github&logoColor=white)](https://CezariuszIwoOrlowski.github.io)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/qv0CpZFGX)
 
 [Tableau Public](https://public.tableau.com/profile/cezariusz.iwo.orlowski)
 
@@ -37,10 +38,6 @@ Warsaw, Poland
 
 @cezariusz_iwo @cezariusz_iwo_orlowski @cezariusziwo #cezariusziwo #cezariusz_iwo #cezariusz_iwo_orlowski Poland Cezariusz Iwo Orłowski • BI Specialist • Tableau Developer • Power BI • ERP Analytics  Tableau • Tableau Prep • SQL • Alteryx Healthcare • Finance Aspiring Threat Intelligence Analyst
 
-
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/qv0CpZFGX)
-
-https://pin.it/qv0CpZFGX
 
 
 
