@@ -24,6 +24,7 @@ Warsaw, Poland
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/cezariusz_iwo_orlowski)
 [![Portfolio](https://img.shields.io/badge/Portfolio-080c10?style=flat&logo=github&logoColor=white)](https://CezariuszIwoOrlowski.github.io)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/qv0CpZFGX)
+[![Reddit](https://img.shields.io/badge/-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/u/CezariuszIwoOrlowski)
 
 [Tableau Public](https://public.tableau.com/profile/cezariusz.iwo.orlowski)
 
