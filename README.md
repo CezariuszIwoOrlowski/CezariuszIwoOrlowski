@@ -52,6 +52,11 @@ Warsaw, Poland
 
 https://public.tableau.com/profile/cezariusz.iwo.orlowski
 
+</br>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">AI is getting more expensive. <br>That doesn’t mean demand for it will decrease.<br><br>It means demand will grow for people who can actually understand it.<br><br>If you’re interested in technology but don’t know where to start, here’s a strong roadmap: <a href="https://t.co/dnaZ0vNITL">https://t.co/dnaZ0vNITL</a></p>&mdash; Cezariusz Iwo Orłowski (@cezariusz_iwo) <a href="https://twitter.com/cezariusz_iwo/status/2058652758232678790?ref_src=twsrc%5Etfw">May 24, 2026</a></blockquote>
+
+
+
 <!--
 **CezariuszIwoOrlowski/CezariuszIwoOrlowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
