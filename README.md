@@ -2,6 +2,7 @@
 
 <meta name="google-site-verification" content="cHov8oRFNbU7iWcfRBoKIZtiZThStn3lS7Vr0qLLQxs" />
 
+# Full Name: Cezariusz Iwo Orłowski
 username: CezariuszIwoOrlowski
 id: Cezariusz Iwo Orłowski
 
@@ -18,7 +19,7 @@ Tableau Developer • Data Analyst • Tableau Prep • Power BI • SQL • Alt
 🌱 I’m currently learning: Cyber - Security & Threat Intelligence
 
 
-Warsaw, Poland
+Location: Warsaw, Poland
 
 ## Connect - Find me
 
