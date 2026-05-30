@@ -8,6 +8,8 @@ id: Cezariusz Iwo Orłowski
 
 Tableau Developer • Data Analyst • Tableau Prep • Power BI • SQL • Alteryx
 
+## Part of VivaIvo.pl
+
 🏰 League of Legends: ex-Diamond
 
 ⚔️ Grepolis: Former #1 player on a major server:
