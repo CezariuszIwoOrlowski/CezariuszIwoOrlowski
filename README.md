@@ -8,7 +8,7 @@ id: Cezariusz Iwo Orłowski
 
 Tableau Developer • Data Analyst • Tableau Prep • Power BI • SQL • Alteryx
 
-## Part of VivaIvo.pl
+## Part of VivaIvo.pl - supporting the legacy of Iwo Orłowski
 
 🏰 League of Legends: ex-Diamond
 
