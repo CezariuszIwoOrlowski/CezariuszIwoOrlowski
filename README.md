@@ -31,6 +31,7 @@ Location: Warsaw, Poland
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/qv0CpZFGX)
 [![Reddit](https://img.shields.io/badge/-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/u/CezariuszIwoOrlowski)
 [![X](https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white)](https://x.com/cezariusz_iwo)
+[![Facebook](https://img.shields.io/badge/Facebook-Page-555555?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/61590300129457/)
 
 
 [Tableau Public](https://public.tableau.com/profile/cezariusz.iwo.orlowski)
